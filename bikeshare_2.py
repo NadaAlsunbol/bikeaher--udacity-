@@ -2,7 +2,7 @@ import time
 import pandas as pd
 import numpy as np
 
-CITY_DATA = { 'chicago': 'chicago.csv',
+CITY_DATA = { 'chicago': 'chicago.csv',      # assigning data file
               'new York City': 'new_york_city.csv',
               'washington': 'washington.csv' }
 
